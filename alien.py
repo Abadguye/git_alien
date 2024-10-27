@@ -17,4 +17,4 @@ class Alien(Sprite):
         self.rect.y = self.rect.height
 
         # 存储外星人的准确水平位置
-        self.x = float(self.rect.x)
+        self.x = float(self.rect.x)  
